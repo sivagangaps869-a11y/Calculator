@@ -1,0 +1,25 @@
+
+.text{
+        text-align: right;
+    }
+
+
+#main{
+    width: fit-content;
+    margin: auto;
+    
+}
+
+button{
+    margin: 4px;
+    width: 55px;
+    
+}
+
+input{
+    width: 260px;
+}
+
+#equal{
+    width: 120px;
+}
